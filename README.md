@@ -1,2 +1,2 @@
-# Simple-PHP-CRUD
-Simple PHP CRUD Application 
+# Screenshot
+![](docs/screenshot.png)
